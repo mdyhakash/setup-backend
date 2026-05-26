@@ -143,8 +143,8 @@ Key decisions:
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo-url>
-cd <project-name>
+git clone https://github.com/mdyhakash/setup-backend.git
+cd setup-backend
 npm install
 ```
 
